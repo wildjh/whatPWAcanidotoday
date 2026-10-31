@@ -1,0 +1,9 @@
+{
+  "name": "Qué puede hacer una PWA",
+  "short_name": "PWA Hoy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#10140f",
+  "theme_color": "#10140f",
+  "lang": "es"
+}

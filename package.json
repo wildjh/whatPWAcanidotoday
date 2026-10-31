@@ -1,0 +1,19 @@
+{
+  "name": "what-pwa-can-i-do-today",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Demos de autenticación, detección de rostros y códigos, captura de pantalla, audio, orientación, movimiento, multitáctil y View Transitions.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@simplewebauthn/browser": "^13.2.2",
+    "@simplewebauthn/server": "^13.2.2",
+    "express": "^4.21.2",
+    "selfsigned": "^2.4.1"
+  }
+}
